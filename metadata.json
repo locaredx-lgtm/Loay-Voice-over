@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sawtek AI - فويس أوفر بكل اللهجات",
+  "description": "استوديو الذكاء الاصطناعي الاحترافي لإنتاج الفويس أوفر والتعليق الصوتي بجميع اللهجات العربية والعالمية مع محول اللهجات والمؤثرات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
